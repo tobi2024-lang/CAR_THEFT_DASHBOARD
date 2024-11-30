@@ -19,14 +19,13 @@ this data was gotten from Kaggle
 - power query (data cleaning)
 - Power BI ( creating report)
 
-
-  ### data cleaning/preparation
+### Data cleaning/preparation
   the data was prepared by:
   - Data loading and inspection
   - Handling missing value'
   - data cleaning and formatting
  
-  ### Exploratory Data Analysis
+### Exploratory Data Analysis
   Total number of stolen vehicles broken down by:
 - Region: Highlights areas with high or low theft rates.
 - Vehicle Type: Identifies which types of vehicles are most frequently stolen.
@@ -34,7 +33,7 @@ this data was gotten from Kaggle
 - Day of Theft: Shows patterns or spikes on specific days of the week.
 - Top 10 Vehicle Types by Average Age: Provides insights into whether newer or older vehicles are more commonly stolen.
 
-  ### Result/Findings
+### Result/Findings
   The analysis result are summerized as follows:
   1. Monday has the highest rate of theft
   2. standard cars are more stolen than luxury cars
@@ -42,7 +41,7 @@ this data was gotten from Kaggle
   4. stationwagon is the type of car that is most stolen
   5. Total number of stolen vehicle is 5k
 
-  ### Recommendation
+### Recommendation
   - There should be more security any where there is a public parking space especially on monday
   - All car should have car tracker especially stationwagon
   - public awareness campaign emphasizing on basic precaution
