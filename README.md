@@ -11,6 +11,8 @@
 
 ### Project overview
 This project provide insight on the car theft that occures in New Zealand
+![Screenshot 2024-11-30 204305](https://github.com/user-attachments/assets/d260ef5e-3678-4cd0-84e9-1c8e52242b5a)
+
 
 ### Data source 
 this data was gotten from Kaggle
