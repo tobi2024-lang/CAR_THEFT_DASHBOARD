@@ -1,5 +1,14 @@
 # CAR_THEFT_DASHBOARD
 
+## Table of content
+- [Project overview](#project-overview)
+- [Data source](#data-source)
+- [Tools](#tools)
+- [Data cleaning/preparation](#data-cleaning_preparation)
+- [Exploratory data analysis](#exploratory-data-analysis)
+- [Result/findings](#result-findings)
+- [Recommendation](#recommendation)
+
 ### Project overview
 This project provide insight on the car theft that occures in New Zealand
 
@@ -27,6 +36,20 @@ this data was gotten from Kaggle
 
   ### Result/Findings
   The analysis result are summerized as follows:
+  1. Monday has the highest rate of theft
+  2. standard cars are more stolen than luxury cars
+  3. Auckland region has the highest rate of theft
+  4. stationwagon is the type of car that is most stolen
+  5. Total number of stolen vehicle is 5k
+
+  ### Recommendation
+  - There should be more security any where there is a public parking space especially on monday
+  - All car should have car tracker especially stationwagon
+  - public awareness campaign emphasizing on basic precaution
+  - Regulate the resale of used vehicle parts to prevent illicit markets.
+  - Collaborate with insurance companies to analyze claims and pinpoint emerging trends.
+
+    
 
 
 
